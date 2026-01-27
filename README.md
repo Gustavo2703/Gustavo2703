@@ -1,7 +1,7 @@
 ## 🙂 Olá! Eu sou o Gustavo Bonifácio 
 
 - 💻 Atualmente estou trabalhando com projetos full-stack 
-- 📚 Estudando diversas linguagens, ferramentas e frameworks
+- 📚 Estudando diversas linguagens, ferramentas e frameworks para assim acelerar minha carreira na área de software em um ambiente que me desafie a resolver problemas complexos e a gerar impactos reais. Isso por meio de projetos práticos que me incentivem a desenvolver conhecimento e autonomia.
 
 ## 🤖 Linguagens e tecnologias
 <div style="display: inline_block"><br>
